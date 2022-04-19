@@ -3,13 +3,7 @@ title: "Maria Livrão (Unity C#)"
 layout: post
 ---
 
-<figure>
-    <img src="/assets/fontawesome/maria01.png"
-         alt="maria livrao presentation screen">
-    <figcaption>Presentation Screen</figcaption>
-</figure>
-
-
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/n2sCvu1HF0w/0.jpg)](https://youtu.be/n2sCvu1HF0w)
 
 
 This is an educational game for teaching children from 10 years old, in a ludic way, how to make a proper cientific research.
@@ -49,11 +43,17 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
 <div class="row">
   <div class="column">    
      <figure>
-            <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao inside lybrary"> 
+            <img src="/assets/fontawesome/maria01.png" width="400" height="200" alt="maria livrao presentation screen"> 
           <figcaption>Inside Library</figcaption>
     </figure>
   </div>
   <div class="column">
+     <figure>
+        <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao inside lybrary">  
+      <figcaption>Dark Room Puzzle</figcaption>         
+      </figure>
+  </div>  
+     <div class="column">
      <figure>
         <img src="/assets/fontawesome/maria03.png" width="400" height="200" alt="maria livrao dark room puzzle">  
       <figcaption>Dark Room Puzzle</figcaption>         
