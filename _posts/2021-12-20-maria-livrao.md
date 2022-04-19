@@ -28,11 +28,11 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
     
     ✅ Programming the main features as: Dialogue system and levels mechanics/dynamics.
     
-    ✅ Setting the audios and musics.
+    ✅ Setting out the audios and musics.
     
     ✅ Creating effects.
     
-    ✅ Deploing the game.
+    ✅ Deploying the game.
     
 
 
