@@ -47,15 +47,17 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
 
 <div class="row">
   <div class="column">  
-      <figcaption>Inside Library</figcaption>
+     
      <figure>
-        <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao presentation screen">    
+        <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao presentation screen"> 
+          <figcaption>Inside Library</figcaption>
     </figure>
   </div>
   <div class="column">
-      <figcaption>Dark Room Puzzle</figcaption>
      <figure>
-        <img src="/assets/fontawesome/maria03.png" width="400" height="200" alt="maria livrao presentation screen">    
+        <img src="/assets/fontawesome/maria03.png" width="400" height="200" alt="maria livrao presentation screen">  
+      <figcaption>Dark Room Puzzle</figcaption>
+         
       </figure>
   </div>  
 </div>
