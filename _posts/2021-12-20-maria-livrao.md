@@ -37,9 +37,9 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
 
 <div class="row">
   <div class="column">
-    <img src="/assets/fontawesome/maria02.png" width="350" height="100">
+    <img src="/assets/fontawesome/maria02.png" width="250" height="150">
   </div>
   <div class="column">
-    <img src="/assets/fontawesome/maria03.png" width="350" height="100">
+    <img src="/assets/fontawesome/maria03.png" width="250" height="150">
   </div>  
 </div>
