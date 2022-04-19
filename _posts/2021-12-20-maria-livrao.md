@@ -11,10 +11,6 @@ It is a project of extension from the Universidade Ferderal de Sergipe. This gam
 
 The game can be played at [Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
 
-The presentaion video can be visualized at [youtube](https://youtu.be/n2sCvu1HF0w).
-
-
-</br>
 
 
 In this project i worked on a lot of miscellaneous tasks some highlights include:
