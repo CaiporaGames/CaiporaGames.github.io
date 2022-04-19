@@ -44,13 +44,13 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
   <div class="column">    
      <figure>
             <img src="/assets/fontawesome/maria01.png" width="400" height="200" alt="maria livrao presentation screen"> 
-          <figcaption>Inside Library</figcaption>
+          <figcaption>presentation screen</figcaption>
     </figure>
   </div>
   <div class="column">
      <figure>
         <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao inside lybrary">  
-      <figcaption>Dark Room Puzzle</figcaption>         
+      <figcaption>Inside Library</figcaption>         
       </figure>
   </div>  
      <div class="column">
