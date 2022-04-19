@@ -2,25 +2,25 @@
 title: "Maria Livrão (Unity C#)"
 layout: post
 ---
-![title](/assets/fontawesome/maria01.png))
-This is a educational game for teaching children from 10 years old, in a ludic way, how to make a proper research.
+![Presentation Screen](/assets/fontawesome/maria01.png)
+*Presentation Screen*
+
+This is an educational game for teaching children from 10 years old, in a ludic way, how to make a proper cientific research.
 It is a project of extension from the Universidade Ferderal de Sergipe. This game is registered as a computer program, the certificate can be [visualized here](https://github.com/CaiporaGames/caiporagames.github.io/blob/master/assets/fontawesome/certificado.pdf)
 
+THe game can be played at ![Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In this project i worked on a lot of miscellaneous tasks some highlights include:
 
-Jekyll also offers powerful support for code snippets:
+✅ Teaching the other two programmers how to use the Unity engine.
+✅ Supervising the project development.
+✅ Drawing the assets used inside the game.
+✅ Game design of the levels.
+✅ Direct communication with the client to keep the project on wheel.
+✅ Programming the main features as: Dialogue system and levels mechanics/dynamics.
+✅ Setting the audios and musics.
+✅ Creating effects.
+✅ Deploing the game.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<img src="/assets/fontawesome/maria02.png" width="200" height="100">
+<img src="/assets/fontawesome/maria03.png" width="200" height="100">
