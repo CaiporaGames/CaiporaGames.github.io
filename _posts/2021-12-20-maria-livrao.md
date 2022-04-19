@@ -12,7 +12,7 @@ layout: post
 This is an educational game for teaching children from 10 years old, in a ludic way, how to make a proper cientific research.
 It is a project of extension from the Universidade Ferderal de Sergipe. This game is registered as a computer program, the certificate can be [visualized here](https://github.com/CaiporaGames/caiporagames.github.io/blob/master/assets/fontawesome/certificado.pdf)
 
-THe game can be played at [Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
+The game can be played at [Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
 
 In this project i worked on a lot of miscellaneous tasks some highlights include:
 
@@ -37,9 +37,9 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
 
 <div class="row">
   <div class="column">
-    <img src="/assets/fontawesome/maria02.png" width="200" height="100">
+    <img src="/assets/fontawesome/maria02.png" width="400" height="200">
   </div>
   <div class="column">
-    <img src="/assets/fontawesome/maria03.png" width="200" height="100">
+    <img src="/assets/fontawesome/maria03.png" width="400" height="200">
   </div>  
 </div>
