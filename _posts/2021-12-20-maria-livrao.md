@@ -8,11 +8,19 @@ layout: post
          alt="maria livrao presentation screen">
     <figcaption>Presentation Screen</figcaption>
 </figure>
-</br></br>
+
+
+</br></br></br></br>
+
+
 This is an educational game for teaching children from 10 years old, in a ludic way, how to make a proper cientific research.
 It is a project of extension from the Universidade Ferderal de Sergipe. This game is registered as a computer program, the certificate can be [visualized here](https://github.com/CaiporaGames/caiporagames.github.io/blob/master/assets/fontawesome/certificado.pdf)
 
 The game can be played at [Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
+
+
+</br></br>
+
 
 In this project i worked on a lot of miscellaneous tasks some highlights include:
 
