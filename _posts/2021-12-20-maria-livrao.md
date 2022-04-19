@@ -46,10 +46,15 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
 </br></br></br>
 
 <div class="row">
-  <div class="column">
-    <img src="/assets/fontawesome/maria02.png" width="400" height="200">
+  <div class="column">  
+     <figure>
+        <img src="/assets/fontawesome/maria02.png" width="400" height="200" alt="maria livrao presentation screen">
+    <figcaption>Inside Library</figcaption>
+</figure>
   </div>
   <div class="column">
-    <img src="/assets/fontawesome/maria03.png" width="400" height="200">
+     <figure>
+        <img src="/assets/fontawesome/maria03.png" width="400" height="200" alt="maria livrao presentation screen">
+    <figcaption>Dark Room Puzzle</figcaption>
   </div>  
 </div>
