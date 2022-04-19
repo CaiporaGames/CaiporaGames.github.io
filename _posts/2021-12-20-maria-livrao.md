@@ -26,11 +26,15 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
     ✅ Creating effects.
     ✅ Deploing the game.
     
+<style>
+div {text-align: center;}
+</style>
+    
 <div class="row">
   <div class="column">
-    <img src="/assets/fontawesome/maria02.png" width="200" height="100">
+    <img src="/assets/fontawesome/maria02.png" width="400" height="200">
   </div>
   <div class="column">
-    <img src="/assets/fontawesome/maria03.png" width="200" height="100">
+    <img src="/assets/fontawesome/maria03.png" width="400" height="200">
   </div>  
 </div>
