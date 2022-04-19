@@ -10,7 +10,6 @@ layout: post
 </figure>
 
 
-</br></br></br></br>
 
 
 This is an educational game for teaching children from 10 years old, in a ludic way, how to make a proper cientific research.
@@ -21,7 +20,7 @@ The game can be played at [Simmer.io](https://simmer.io/@Maria_Livrao/trilhou).
 The presentaion video can be visualized at [youtube](https://youtu.be/n2sCvu1HF0w).
 
 
-</br></br>
+</br>
 
 
 In this project i worked on a lot of miscellaneous tasks some highlights include:
@@ -45,7 +44,7 @@ In this project i worked on a lot of miscellaneous tasks some highlights include
     ✅ Deploing the game.
     
 
-</br></br></br>
+
 
 <div class="row">
   <div class="column">    
