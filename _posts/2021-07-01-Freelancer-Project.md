@@ -36,20 +36,20 @@ In this project i worked as a solo developer:
 <div class="row">
   <div class="column">    
      <figure>
-            <img src="/assets/fontawesome/dog01.png" width="400" height="200" alt="maria livrao presentation screen"> 
-          <figcaption>presentation screen</figcaption>
+            <img src="/assets/fontawesome/dog01.png" width="400" height="200" alt="Desert Level"> 
+          <figcaption>Desert Level</figcaption>
     </figure>
   </div>
   <div class="column">
      <figure>
-        <img src="/assets/fontawesome/dog02.png" width="400" height="200" alt="maria livrao inside lybrary">  
-      <figcaption>Inside Library</figcaption>         
+        <img src="/assets/fontawesome/dog02.png" width="400" height="200" alt="Main Menu">  
+      <figcaption>Main Menu</figcaption>         
       </figure>
   </div>  
      <div class="column">
      <figure>
-        <img src="/assets/fontawesome/dog03.png" width="400" height="200" alt="maria livrao dark room puzzle">  
-      <figcaption>Dark Room Puzzle</figcaption>         
+        <img src="/assets/fontawesome/dog03.png" width="400" height="200" alt="Florest Level">  
+      <figcaption>Florest Level</figcaption>         
       </figure>
   </div>  
 </div>
