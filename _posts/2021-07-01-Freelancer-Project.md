@@ -1,5 +1,5 @@
 ---
-title: "Freelancer Project to Diego Cardoso(Unity C#)"
+title: "Freelancer Project to Diego Cardoso (Unity C#)"
 layout: post
 ---
 
