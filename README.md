@@ -21,4 +21,4 @@ I have a small channel on youtube where i share a bit what i am learning in my [
   
 If you have any doubt or interest in something do anxiety on reaching me out.
 
-Cheers!
+✨Cheers✨
