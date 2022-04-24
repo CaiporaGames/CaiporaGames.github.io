@@ -19,6 +19,6 @@ Think in a person who loves discover strange things about gaming and programming
   
 I have a small channel on youtube where i share a bit what i am learning in my [game dev journey 🚀](https://www.youtube.com/channel/UCkiqlgDnCQk3W2rvu9fjRCQ)
   
-If you have any doubt or interest in something do anxiety on reaching me out.
+If you have any doubt or interest in something do not get anxiety on reaching me out.
 
 ✨Cheers✨
