@@ -3,8 +3,10 @@ layout: default
 title: "Home"
 ---
 
-{% if site.show_excerpts %}
+{% if page.Home %}
   {% include home.html %}
-{% else %}
+{% elsif page.Documentation %}
+  {% include Documentation.html %}
+{%else%}
   {% include archive.html title="Posts" %}
 {% endif %}
