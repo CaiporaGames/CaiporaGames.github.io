@@ -6,7 +6,7 @@ layout: page
 
  <div class="column">
      <figure>
-        <img src="/assets/fontawesome/eu.png" width="400" height="200" alt="eu">  
+        <img src="/assets/fontawesome/eu.png" width="400" height="400" alt="eu">  
       <figcaption>Inside Library</figcaption>         
       </figure>
   </div>  
