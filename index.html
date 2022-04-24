@@ -3,9 +3,9 @@ layout: default
 title: "Home"
 ---
 
-{% if page.Home %}
+{% if page.Home is "selected"%}
   {% include home.html %}
-{% elsif page.Documentation %}
+{% elsif page.Documentation is "selected"%}
   {% include Documentation.html %}
 {%else%}
   {% include archive.html title="Posts" %}
