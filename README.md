@@ -7,9 +7,11 @@ layout: page
  <div class="column">
      <figure>
         <img src="/assets/fontawesome/eu.png" width="400" height="400" alt="eu">  
-      <figcaption>Inside Library</figcaption>         
+      <figcaption>Just Me</figcaption>         
       </figure>
   </div>  
+  
+  
   
 Think in a person who loves discover strange things about gaming and programming 🤪
   
